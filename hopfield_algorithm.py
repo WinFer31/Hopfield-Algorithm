@@ -14,7 +14,7 @@ x3 = np.array([-1, 1, -1, -1])
 # x3 = np.array([-1, 1, 1, 1])
 
 #Input
-y = np.array([-1, 1, -1, -1])
+y = np.array([1, -1, 1, -1])
 
 #Convert vector to column and transpose it
 def transpose_to_column(x):
